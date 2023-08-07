@@ -1,6 +1,6 @@
 # webtoon_app
 
-A new Flutter project.
+This project was carried out following the 'Building a Webtoon App with Flutter' course provided by Nomad Coders.
 
 ## Getting Started
 
