@@ -2,15 +2,10 @@
 
 This project was carried out following the 'Building a Webtoon App with Flutter' course provided by Nomad Coders.
 
-## Getting Started
+## Through this project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implemented UI using Flutter.
+Learned about State and Interactivity while building a Pomodoro productivity app.
+Handled data fetching and navigation while creating the webtoon app.
+Gained a fundamental understanding of the rules and philosophy of the Flutter framework through this project.
+Created three simple Flutter apps: a Wallet UI app, a Pomodoro app, and a Webtoon app.
